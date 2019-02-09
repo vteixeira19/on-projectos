@@ -1,0 +1,41 @@
+.container {
+    width: 100%;
+}
+
+
+ul li{
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+.primeiro img {  
+    width: 40px;
+    height: 40px;
+}
+
+.primeiro {
+    width: 375px; 
+    height: 150px;
+    background-color: #27ae60;
+}
+
+.segundo {
+    width: 375px;
+    height: 150px;
+    background-color: rgba(74, 73, 74, 0.8);
+}
+
+.terceiro{
+    width: 375px;
+    height: 150px;
+    background-color: #4a4a4a;
+}
+
+.quarto {
+    width: 375px;
+    height: 150px;
+    background-color: #4a4a4a;
+}
